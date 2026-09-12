@@ -1,0 +1,17 @@
+Journal de génération des certificats
+Date : 12/09/2026
+Fichier lu : donnees-participants.xlsx
+
+Certificats produits : 3
+  certificat-P-001-martin.docx
+  certificat-P-002-bernard.docx
+  certificat-P-003-robert.docx
+
+PDF : conversion par LibreOffice, 3 PDF sur 3
+
+Participants non terminés, ignorés volontairement : 1
+  ligne 5 (P-004) : statut « Planifié »
+
+Lignes à corriger : 0
+
+Aucune anomalie. Tous les participants terminés ont leur certificat.
