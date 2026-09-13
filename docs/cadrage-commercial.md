@@ -34,4 +34,4 @@ Le classeur fictif contient quatre participants. Trois lignes terminées produis
 
 ## Marque et domaine
 
-« Preuveo Formation » était un nom de travail et a été abandonné après détection d'une marque numérique française proche. « Fin de session » est désormais le nom retenu. Le site est publié sur `findesession.fr` via GitHub Pages. L'ancienne adresse ChatGPT Sites doit rediriger vers ce domaine, car elle figure dans les premiers messages de prospection.
+« Preuveo Formation » était un nom de travail et a été abandonné après détection d'une marque numérique française proche. « Fin de session » est désormais le nom retenu. Le site est publié sur `findesession.fr` via GitHub Pages. L'ancienne adresse ChatGPT Sites redirige vers ce domaine, car elle figure dans les premiers messages de prospection.
