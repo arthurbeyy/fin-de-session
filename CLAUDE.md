@@ -24,6 +24,7 @@ La scène 3D du hero est fonctionnelle : elle montre une feuille Excel qui devie
 ## Contraintes
 
 - Site statique sans build dans `dist/`
+- Le domaine principal est publié par GitHub Pages à chaque mise à jour de `main`. L'ancienne adresse ChatGPT Sites possède une source séparée qui ne doit rester qu'une redirection.
 - HTML, CSS et JavaScript natifs
 - Accessible au clavier et lisible sur mobile
 - Ne jamais publier de vraies données de prospect
