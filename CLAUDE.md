@@ -32,4 +32,4 @@ La scène 3D du hero est fonctionnelle : elle montre une feuille Excel qui devie
 
 ## Prochaine amélioration possible
 
-Brancher un vrai formulaire de qualification, ajouter des mentions légales complètes quand la structure juridique sera confirmée, puis instrumenter les conversions avec un outil respectueux de la vie privée.
+Brancher un vrai formulaire de qualification, compléter les mentions légales déjà publiées avec le SIREN dès réception, puis instrumenter les conversions avec un outil respectueux de la vie privée. La page actuellement publiée indique « immatriculation en cours » : ne pas inventer de numéro.
