@@ -2,6 +2,8 @@
 
 Site commercial et prototype de **Fin de session**, une automatisation qui transforme un fichier Excel en certificats de réalisation Word et PDF pour les petits organismes de formation.
 
+Site public : [findesession.fr](https://findesession.fr/). La publication du dossier `dist/` est assurée par GitHub Pages. L'ancienne adresse ChatGPT Sites redirige vers le domaine public.
+
 ## Offre
 
 - Cible : organismes de formation de 1 à 3 personnes
