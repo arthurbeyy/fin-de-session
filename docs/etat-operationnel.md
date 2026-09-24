@@ -31,3 +31,7 @@ En attendant, vérifier manuellement Gmail pour les nouvelles réponses humaines
 ## Prochaine action
 
 Ne pas relancer la vague du 12 septembre. Préparer une nouvelle liste uniquement à partir d’entrées Hunter vérifiées et après contrôle de Gmail et de la liste noire. Recréer la surveillance quotidienne lorsque le compte dispose d’une place, sans modifier les autres tâches sans autorisation.
+
+## Mémoire de reprise
+
+Le 24 septembre 2026, `docs/COORDINATION.md` a été corrigé pour pointer vers les documents réellement présents et rappeler les contrôles de confidentialité, de prospection et de site. La modification du guide a été enregistrée dans le commit `43d389cf28243d91420d00d15aa7e2fb71157a6b`.
