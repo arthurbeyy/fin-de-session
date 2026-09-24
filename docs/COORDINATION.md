@@ -1,24 +1,32 @@
-# Coordination Codex vers Claude
+# Coordination — Fin de session
 
-Le dépôt GitHub est le relais commun. Aucun fait indispensable ne doit rester dans un chat.
+Le dépôt `arthurbeyy/fin-de-session` est la mémoire commune du site, du prototype et des décisions commerciales. Le suivi nominatif de prospection reste dans le fichier privé de la Library ChatGPT. Ne jamais publier d'identité, d'adresse email ou de contenu de message prospect dans ce dépôt.
 
-## Début de relève
+## Début de tâche
 
-1. Mettre à jour la copie locale depuis main.
-2. Lire PROJECT.md, STATE.md, DECISIONS.md, BACKLOG.md et ce fichier.
-3. Choisir la première action P0 non bloquée.
+Lire les documents dans cet ordre :
 
-## Fin de relève
+1. `README.md` pour comprendre le périmètre du dépôt.
+2. `docs/cadrage-commercial.md` pour les décisions commerciales validées.
+3. `docs/etat-operationnel.md` pour l'état le plus récent et la prochaine action.
+4. Ce fichier pour les règles de coordination.
+5. `CLAUDE.md` si la tâche porte sur le site, le prototype ou le développement.
 
-1. Mettre à jour STATE.md avec ce qui a réellement été fait, les preuves, les blocages et l'action suivante.
-2. Ajouter une décision dans DECISIONS.md seulement si elle change durablement le projet.
-3. Mettre à jour BACKLOG.md.
-4. Créer un seul commit descriptif et le pousser sur main, sauf si la publication ou l'écriture GitHub n'est pas autorisée.
+Pour une tâche de prospection, ouvrir aussi le fichier privé `fin-de-session-suivi-prospection.xlsx` dans la Library et contrôler les messages envoyés et reçus dans Gmail avant toute décision d'envoi. Les adresses doivent être vérifiées dans Hunter, avoir une fiabilité d'au moins 90 % ou être marquées vérifiées, être absentes de la liste noire et ne pas avoir déjà été contactées. Vérifier chaque accroche à sa source. Limiter le message à moins de 130 mots. Arrêter le lot dès que plus de deux erreurs de remise apparaissent.
 
-## Passage à Claude
+La vague du 12 septembre 2026 est close. Ses 18 relances ont été envoyées le 17 septembre. Aucun destinataire de cette vague ne doit recevoir une nouvelle relance. Les adresses en rebond et les refus sont exclues de toute campagne future.
 
-Quand Codex approche de sa limite de consommation, il ne commence pas de chantier complexe. Il termine l'étape atomique en cours, met à jour les trois fichiers ci-dessus, pousse le commit puis laisse cette instruction :
+## Fin de tâche
 
-> Claude, reprends depuis main. Lis les fichiers de reprise, puis exécute la première action P0 non bloquée. Mets à jour l'état et pousse un unique commit à la fin.
+Mettre à jour `docs/etat-operationnel.md` avec les faits vérifiés, les actions faites, les limites et la prochaine étape. Après tout changement de statut de prospection, mettre immédiatement à jour le fichier privé de suivi. Ne jamais copier ses coordonnées ou son contenu dans le dépôt public.
 
-Claude n'a pas besoin du chat précédent pour reprendre.
+Garder les décisions de nom, cible, prix, volume ou texte de campagne dans `docs/cadrage-commercial.md` et ne les modifier qu'après validation d'Arthur. Ne pas répondre automatiquement aux prospects.
+
+Pour une modification du site, suivre les instructions de `CLAUDE.md`, préserver le design existant, tester les largeurs 360, 390, 414 et 1440 pixels, puis vérifier le déploiement GitHub Pages. Ne pas mettre de données prospects sur le site.
+
+## Blocages connus au 24 septembre 2026
+
+Aucune intégration Hunter utilisable n'est disponible dans cette session. Ne pas remplacer Hunter par une autre source pour trouver les adresses. La tâche quotidienne `Suivi campagne Fin de session` n'est pas active. Sa création est bloquée par la limite de cinq tâches planifiées actives. Ne pas modifier une autre tâche pour libérer une place sans autorisation.
+
+Tant que ces blocages persistent, conserver la vague close, effectuer seulement les contrôles Gmail nécessaires et préparer la future campagne sans envoyer de nouveaux messages.
+
